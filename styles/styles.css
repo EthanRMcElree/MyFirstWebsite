@@ -1,0 +1,45 @@
+*{
+    font-family: Verdana;
+}
+header h1{
+    color: white;
+}
+header h4{
+    color:white;
+}
+header{
+    height:auto;
+    background-image: url('../images/banner.png');
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.logo{
+    float: left;
+}
+body{
+    font-size: 100%;
+    background-image: linear-gradient(to right, #F285E7 0%, #73F72B 100%);
+    
+}
+main{
+    background-size: 1250px;
+    margin-left: 2em;
+    margin-right:  2em;
+}
+main img{
+    float: right;
+} 
+li{
+    margin-bottom: 0.4em;
+}
+.list{
+    font-weight: bold;
+}
+footer{
+    padding-bottom: 2em;
+    color:white;
+    font-size: 90%;
+    border-top: 3px solid black;
+    background-color: black;
+}
